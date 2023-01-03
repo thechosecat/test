@@ -1,0 +1,4 @@
+name: Cat
+version: '${project.version}'
+main: io.github.kuohsuanlo.orereplacer.OreReplacerPlugin
+api-version: 1.19
